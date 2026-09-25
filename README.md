@@ -4,12 +4,12 @@
 
 ## توضیحات
 
-این ریپازیتوری برای توسعه افزونه **Master Loading Screen** (RenoMarkazi Loading Screen) ایجاد شده است.
+این ریپازیتوری برای توسعه افزونه **Master Loading Screen** (Master Loading Screen) ایجاد شده است.
 
-- **Plugin Name:** RenoMarkazi Loading Screen
-- **PluginSlug:** renomarkazi-loading-screen
-- **Author:** RenoMarkazi.com
-- **Website:** [RenoMarkazi.com](https://RenoMarkazi.com)
+- **Plugin Name:** 
+- **PluginSlug:** 
+- **Author:** 
+- **Website:** 
 
 ## هدف پروژه
 
